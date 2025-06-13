@@ -7,4 +7,4 @@ A simple Windows batch script to restart the Host Network Service (HNS), useful 
 Run the script as administrator:
 
 ```cmd
-restart-hns.bat
+HNS.bat
